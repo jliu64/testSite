@@ -2,3 +2,16 @@ img {
   width: 1325px;
   height: 883px;
 }
+
+background {
+  color: LemonChiffon;
+}
+
+p {
+  color: Navy;
+  text-color: White;
+}
+
+#banner {
+  font-size: 50px;
+}
